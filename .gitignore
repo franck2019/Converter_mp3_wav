@@ -1,0 +1,5 @@
+#ignore
+
+audio_wav/
+data/
+data/*
