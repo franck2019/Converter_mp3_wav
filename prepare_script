@@ -10,28 +10,28 @@ dir=data/audio/wav
 
 us='_'
 
-echo "record_id;speaker_id;Utterance_id;10combined_letter;extended_filename;text_id;sentence_id" > preparing.csv
+combi_letter=$(openssl rand -hex 20 | head -c 10)
+
+speaker_id=$birthdate-$combi_letter
+
+echo "record_id;speaker_id;Utterance_id;10combined_letter;extended_filename;sentence_id;text_id" > preparing.csv
 
 for audio_wav in $dir/*; do
 
-	text_id=$(echo $audio_wav | cut -d '.' -f 1 | cut -d '/' -f 4)
+	sentence_id=$(echo $audio_wav | cut -d '.' -f 1 | cut -d '/' -f 4)
 	
-	base_filename=$(( 10#$text_id ))  #base_filename is sentence_id
+	base_filename=$(( 10#$sentence_id ))  #base_filename is sentence_id
 	
 	exfilename=$audio_wav
 
-	combi_letter=$(openssl rand -hex 20 | head -c 10)
-
-	speaker_id=$birthdate-$combi_letter
-	
 	record_id="$langcode$us$filename$us$speaker_id"
 	
 	end_time=$(printf "%.0f\n" $(soxi -D $audio_wav))
 	
 	Utterance_id=$record_id$us$start_time-00000$end_time
 	
-	echo "$record_id;$speaker_id;$Utterance_id;$combi_letter;$exfilename;$text_id;$base_filename"
-	echo "$record_id;$speaker_id;$Utterance_id;$combi_letter;$exfilename;$text_id;$base_filename" >> preparing.csv
+	echo "$record_id;$speaker_id;$Utterance_id;$combi_letter;$exfilename;$sentence_id;$base_filename"
+	echo "$record_id;$speaker_id;$Utterance_id;$combi_letter;$exfilename;$sentence_id;$base_filename" >> preparing.csv
 done
 
 

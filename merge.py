@@ -3,16 +3,20 @@
 import pandas as pd
 
 # Reading csv files
-cols1_types= {"record_id": str,"speaker_id": str,"Utterance_id": str,"10combined_letter": str,"extended_filename": str,"text_id": str,"sentence_id": int}
+cols1_types= {"record_id": str,"speaker_id": str,"Utterance_id": str,"10combined_letter": str,"extended_filename": str,"text_id": int,"sentence_id": str}
 
 preparing_df = pd.read_csv('preparing.csv', sep=';', dtype=cols1_types)
-dict_yemba_df = pd.read_csv('dict-yemba.csv', dtype={"sentence_id": int, "sentence":str})
+dict_yemba_df = pd.read_csv('dict-yemba.csv', dtype={"text_id": int, "sentence":str})
 
+# Rename columns of dict_yemba_df
+#dict_yemba_df.columns = ['text_id', 'sentence']
+
+#print(dict_yemba_df.columns)
 #print(preparing_df.dtypes)
 
 # We are going to use the merge function by setting how= 'right'
 # since some sentences don't have audio
-global_data_df = pd.merge(preparing_df, dict_yemba_df, on='sentence_id', how='right')
+global_data_df = pd.merge(preparing_df, dict_yemba_df, on='text_id', how='right')
 
 # save our global df into a csv file called global_data.csv
 global_data_df.to_csv('./product/global_data.csv', index=False)
