@@ -1,144 +1,144 @@
 record_id,speaker_id,Utterance_id,10combined_letter,extended_filename,sentence_id,text_id,sentence
-YEM__2001-cd2d9ae470,2001-cd2d9ae470,YEM__2001-cd2d9ae470_000000-000003,cd2d9ae470,data/audio/wav/00001.wav,00001,1,bonjour 
-YEM__2001-cd2d9ae470,2001-cd2d9ae470,YEM__2001-cd2d9ae470_000000-000002,cd2d9ae470,data/audio/wav/00002.wav,00002,2,bonsoir 
-YEM__2001-cd2d9ae470,2001-cd2d9ae470,YEM__2001-cd2d9ae470_000000-000003,cd2d9ae470,data/audio/wav/00003.wav,00003,3,je m'appelle
-YEM__2001-cd2d9ae470,2001-cd2d9ae470,YEM__2001-cd2d9ae470_000000-000002,cd2d9ae470,data/audio/wav/00004.wav,00004,4,je suis
-YEM__2001-cd2d9ae470,2001-cd2d9ae470,YEM__2001-cd2d9ae470_000000-000002,cd2d9ae470,data/audio/wav/00005.wav,00005,5,j'ai faim
-YEM__2001-cd2d9ae470,2001-cd2d9ae470,YEM__2001-cd2d9ae470_000000-000003,cd2d9ae470,data/audio/wav/00006.wav,00006,6,je vais au marché
-YEM__2001-cd2d9ae470,2001-cd2d9ae470,YEM__2001-cd2d9ae470_000000-000002,cd2d9ae470,data/audio/wav/00007.wav,00007,7,Entrez
-YEM__2001-cd2d9ae470,2001-cd2d9ae470,YEM__2001-cd2d9ae470_000000-000002,cd2d9ae470,data/audio/wav/00008.wav,00008,8,entre
-YEM__2001-cd2d9ae470,2001-cd2d9ae470,YEM__2001-cd2d9ae470_000000-000002,cd2d9ae470,data/audio/wav/00009.wav,00009,9,Sortez 
-YEM__2001-cd2d9ae470,2001-cd2d9ae470,YEM__2001-cd2d9ae470_000000-000002,cd2d9ae470,data/audio/wav/00010.wav,00010,10,sors
-YEM__2001-cd2d9ae470,2001-cd2d9ae470,YEM__2001-cd2d9ae470_000000-000004,cd2d9ae470,data/audio/wav/00011.wav,00011,11,je ne me sens pas bien 
-YEM__2001-cd2d9ae470,2001-cd2d9ae470,YEM__2001-cd2d9ae470_000000-000003,cd2d9ae470,data/audio/wav/00012.wav,00012,12,est ce que je peux aller à la maison ?
-YEM__2001-cd2d9ae470,2001-cd2d9ae470,YEM__2001-cd2d9ae470_000000-000003,cd2d9ae470,data/audio/wav/00013.wav,00013,13,Ça va comme ça ?
-YEM__2001-cd2d9ae470,2001-cd2d9ae470,YEM__2001-cd2d9ae470_000000-000003,cd2d9ae470,data/audio/wav/00014.wav,00014,14,Asseyez-vous 
-YEM__2001-cd2d9ae470,2001-cd2d9ae470,YEM__2001-cd2d9ae470_000000-000002,cd2d9ae470,data/audio/wav/00015.wav,00015,15,va t´asseoir
-YEM__2001-cd2d9ae470,2001-cd2d9ae470,YEM__2001-cd2d9ae470_000000-000003,cd2d9ae470,data/audio/wav/00016.wav,00016,16,Qui n´est pas là aujourd´hui ?
-YEM__2001-cd2d9ae470,2001-cd2d9ae470,YEM__2001-cd2d9ae470_000000-000002,cd2d9ae470,data/audio/wav/00017.wav,00017,17,Efface
-YEM__2001-cd2d9ae470,2001-cd2d9ae470,YEM__2001-cd2d9ae470_000000-000002,cd2d9ae470,data/audio/wav/00018.wav,00018,18,Efface le tableau
-YEM__2001-cd2d9ae470,2001-cd2d9ae470,YEM__2001-cd2d9ae470_000000-000003,cd2d9ae470,data/audio/wav/00019.wav,00019,19,Où est la brosse ?
-YEM__2001-cd2d9ae470,2001-cd2d9ae470,YEM__2001-cd2d9ae470_000000-000003,cd2d9ae470,data/audio/wav/00020.wav,00020,20,Où est ta brosse ?
-YEM__2001-cd2d9ae470,2001-cd2d9ae470,YEM__2001-cd2d9ae470_000000-000003,cd2d9ae470,data/audio/wav/00021.wav,00021,21,Fermez la porte
-YEM__2001-cd2d9ae470,2001-cd2d9ae470,YEM__2001-cd2d9ae470_000000-000003,cd2d9ae470,data/audio/wav/00022.wav,00022,22,Ouvrez la fenêtre
-YEM__2001-cd2d9ae470,2001-cd2d9ae470,YEM__2001-cd2d9ae470_000000-000003,cd2d9ae470,data/audio/wav/00023.wav,00023,23,Change de place.
-YEM__2001-cd2d9ae470,2001-cd2d9ae470,YEM__2001-cd2d9ae470_000000-000003,cd2d9ae470,data/audio/wav/00024.wav,00024,24,Sortez votre matériel.
-YEM__2001-cd2d9ae470,2001-cd2d9ae470,YEM__2001-cd2d9ae470_000000-000003,cd2d9ae470,data/audio/wav/00025.wav,00025,25,Taisez-vous s´il-vous plaît 
-YEM__2001-cd2d9ae470,2001-cd2d9ae470,YEM__2001-cd2d9ae470_000000-000004,cd2d9ae470,data/audio/wav/00027.wav,00027,27,Fermez vos livres et prenez votre cahier 
-YEM__2001-cd2d9ae470,2001-cd2d9ae470,YEM__2001-cd2d9ae470_000000-000003,cd2d9ae470,data/audio/wav/00028.wav,00028,28,C´est difficile
-YEM__2001-cd2d9ae470,2001-cd2d9ae470,YEM__2001-cd2d9ae470_000000-000004,cd2d9ae470,data/audio/wav/00029.wav,00029,29,Je ne sais pas faire les exercices
-YEM__2001-cd2d9ae470,2001-cd2d9ae470,YEM__2001-cd2d9ae470_000000-000003,cd2d9ae470,data/audio/wav/00030.wav,00030,30,Je n´ai pas fini
-YEM__2001-cd2d9ae470,2001-cd2d9ae470,YEM__2001-cd2d9ae470_000000-000005,cd2d9ae470,data/audio/wav/00031.wav,00031,31,Qu´est-ce qu´il faut faire pour la prochaine fois ?
-YEM__2001-cd2d9ae470,2001-cd2d9ae470,YEM__2001-cd2d9ae470_000000-000004,cd2d9ae470,data/audio/wav/00033.wav,00033,33,Quels exercices il faut faire ?
-YEM__2001-cd2d9ae470,2001-cd2d9ae470,YEM__2001-cd2d9ae470_000000-000003,cd2d9ae470,data/audio/wav/00034.wav,00034,34,Je ne comprends pas 
-YEM__2001-cd2d9ae470,2001-cd2d9ae470,YEM__2001-cd2d9ae470_000000-000003,cd2d9ae470,data/audio/wav/00035.wav,00035,35,Vous pouvez répéter ?
-YEM__2001-cd2d9ae470,2001-cd2d9ae470,YEM__2001-cd2d9ae470_000000-000003,cd2d9ae470,data/audio/wav/00036.wav,00036,36,Comment ça s´écrit ?
-YEM__2001-cd2d9ae470,2001-cd2d9ae470,YEM__2001-cd2d9ae470_000000-000002,cd2d9ae470,data/audio/wav/00038.wav,00038,38,Plus fort
-YEM__2001-cd2d9ae470,2001-cd2d9ae470,YEM__2001-cd2d9ae470_000000-000003,cd2d9ae470,data/audio/wav/00039.wav,00039,39,Encore une fois
-YEM__2001-cd2d9ae470,2001-cd2d9ae470,YEM__2001-cd2d9ae470_000000-000003,cd2d9ae470,data/audio/wav/00040.wav,00040,40,Ça va c´est bien
-YEM__2001-cd2d9ae470,2001-cd2d9ae470,YEM__2001-cd2d9ae470_000000-000003,cd2d9ae470,data/audio/wav/00041.wav,00041,41,ça suffit.
-YEM__2001-cd2d9ae470,2001-cd2d9ae470,YEM__2001-cd2d9ae470_000000-000005,cd2d9ae470,data/audio/wav/00042.wav,00042,42,Tu peux parler plus fort s´il te plait je n´entends pas?
-YEM__2001-cd2d9ae470,2001-cd2d9ae470,YEM__2001-cd2d9ae470_000000-000004,cd2d9ae470,data/audio/wav/00043.wav,00043,43,Vous entendez bien au fond ?
-YEM__2001-cd2d9ae470,2001-cd2d9ae470,YEM__2001-cd2d9ae470_000000-000003,cd2d9ae470,data/audio/wav/00044.wav,00044,44,Je peux changer de place ?
-YEM__2001-cd2d9ae470,2001-cd2d9ae470,YEM__2001-cd2d9ae470_000000-000004,cd2d9ae470,data/audio/wav/00045.wav,00045,45,Je peux m´asseoir à côté de ...?
-YEM__2001-cd2d9ae470,2001-cd2d9ae470,YEM__2001-cd2d9ae470_000000-000003,cd2d9ae470,data/audio/wav/00046.wav,00046,46,Je peux ouvrir ou fermer la fenêtre ?
-YEM__2001-cd2d9ae470,2001-cd2d9ae470,YEM__2001-cd2d9ae470_000000-000003,cd2d9ae470,data/audio/wav/00047.wav,00047,47,Je peux effacer le tableau ?
-YEM__2001-cd2d9ae470,2001-cd2d9ae470,YEM__2001-cd2d9ae470_000000-000003,cd2d9ae470,data/audio/wav/00048.wav,00048,48,Je peux écrire la date ?
-YEM__2001-cd2d9ae470,2001-cd2d9ae470,YEM__2001-cd2d9ae470_000000-000003,cd2d9ae470,data/audio/wav/00049.wav,00049,49,Je peux sortir ?
-YEM__2001-cd2d9ae470,2001-cd2d9ae470,YEM__2001-cd2d9ae470_000000-000003,cd2d9ae470,data/audio/wav/00050.wav,00050,50,Je peux aller aux toilettes ?
-YEM__2001-cd2d9ae470,2001-cd2d9ae470,YEM__2001-cd2d9ae470_000000-000003,cd2d9ae470,data/audio/wav/00051.wav,00051,51,J´ai oublié mon livre
-YEM__2001-cd2d9ae470,2001-cd2d9ae470,YEM__2001-cd2d9ae470_000000-000002,cd2d9ae470,data/audio/wav/00052.wav,00052,52,mon cahier
-YEM__2001-cd2d9ae470,2001-cd2d9ae470,YEM__2001-cd2d9ae470_000000-000003,cd2d9ae470,data/audio/wav/00053.wav,00053,53,Je n´ai pas de stylo
-YEM__2001-cd2d9ae470,2001-cd2d9ae470,YEM__2001-cd2d9ae470_000000-000003,cd2d9ae470,data/audio/wav/00054.wav,00054,54,J´ai perdu la photocopie
-YEM__2001-cd2d9ae470,2001-cd2d9ae470,YEM__2001-cd2d9ae470_000000-000003,cd2d9ae470,data/audio/wav/00055.wav,00055,55,Qu´est-ce que ça veut dire
-YEM__2001-cd2d9ae470,2001-cd2d9ae470,YEM__2001-cd2d9ae470_000000-000002,cd2d9ae470,data/audio/wav/00056.wav,00056,56,Adieu les amis 
-YEM__2001-cd2d9ae470,2001-cd2d9ae470,YEM__2001-cd2d9ae470_000000-000003,cd2d9ae470,data/audio/wav/00057.wav,00057,57,vous pouvez m'aider s'il vous plaît ?
-YEM__2001-cd2d9ae470,2001-cd2d9ae470,YEM__2001-cd2d9ae470_000000-000003,cd2d9ae470,data/audio/wav/00058.wav,00058,58,Venez ici s'il vous plait ?
-YEM__2001-cd2d9ae470,2001-cd2d9ae470,YEM__2001-cd2d9ae470_000000-000005,cd2d9ae470,data/audio/wav/00059.wav,00059,59,Vous avez 10 min pour moi 
-YEM__2001-cd2d9ae470,2001-cd2d9ae470,YEM__2001-cd2d9ae470_000000-000003,cd2d9ae470,data/audio/wav/00060.wav,00060,60,Ecoutez bien
-YEM__2001-cd2d9ae470,2001-cd2d9ae470,YEM__2001-cd2d9ae470_000000-000002,cd2d9ae470,data/audio/wav/00061.wav,00061,61,Regardez ici
-YEM__2001-cd2d9ae470,2001-cd2d9ae470,YEM__2001-cd2d9ae470_000000-000003,cd2d9ae470,data/audio/wav/00062.wav,00062,62,Ou se trouve la ville
-YEM__2001-cd2d9ae470,2001-cd2d9ae470,YEM__2001-cd2d9ae470_000000-000002,cd2d9ae470,data/audio/wav/00063.wav,00063,63,Je serai absent demain 
-YEM__2001-cd2d9ae470,2001-cd2d9ae470,YEM__2001-cd2d9ae470_000000-000003,cd2d9ae470,data/audio/wav/00064.wav,00064,64,Je  ne serai pas la semaine prochaine 
-YEM__2001-cd2d9ae470,2001-cd2d9ae470,YEM__2001-cd2d9ae470_000000-000002,cd2d9ae470,data/audio/wav/00065.wav,00065,65,Vous pouvez répétez ?
-YEM__2001-cd2d9ae470,2001-cd2d9ae470,YEM__2001-cd2d9ae470_000000-000002,cd2d9ae470,data/audio/wav/00066.wav,00066,66,C´est bien 
-YEM__2001-cd2d9ae470,2001-cd2d9ae470,YEM__2001-cd2d9ae470_000000-000003,cd2d9ae470,data/audio/wav/00067.wav,00067,67,très bien 
-YEM__2001-cd2d9ae470,2001-cd2d9ae470,YEM__2001-cd2d9ae470_000000-000003,cd2d9ae470,data/audio/wav/00069.wav,00069,69,excellent 
-YEM__2001-cd2d9ae470,2001-cd2d9ae470,YEM__2001-cd2d9ae470_000000-000002,cd2d9ae470,data/audio/wav/00070.wav,00070,70,Tu as très bien compris
-YEM__2001-cd2d9ae470,2001-cd2d9ae470,YEM__2001-cd2d9ae470_000000-000002,cd2d9ae470,data/audio/wav/00071.wav,00071,71,C´est un bon travail 
-YEM__2001-cd2d9ae470,2001-cd2d9ae470,YEM__2001-cd2d9ae470_000000-000002,cd2d9ae470,data/audio/wav/00072.wav,00072,72,Tu as gagné un
-YEM__2001-cd2d9ae470,2001-cd2d9ae470,YEM__2001-cd2d9ae470_000000-000002,cd2d9ae470,data/audio/wav/00073.wav,00073,73,Tu t´es trompé 
-YEM__2001-cd2d9ae470,2001-cd2d9ae470,YEM__2001-cd2d9ae470_000000-000002,cd2d9ae470,data/audio/wav/00074.wav,00074,74,Ce n´est pas comme ça
-YEM__2001-cd2d9ae470,2001-cd2d9ae470,YEM__2001-cd2d9ae470_000000-000003,cd2d9ae470,data/audio/wav/00075.wav,00075,75,Au revoir 
-YEM__2001-cd2d9ae470,2001-cd2d9ae470,YEM__2001-cd2d9ae470_000000-000003,cd2d9ae470,data/audio/wav/00076.wav,00076,76,A la semaine prochaine 
-YEM__2001-cd2d9ae470,2001-cd2d9ae470,YEM__2001-cd2d9ae470_000000-000003,cd2d9ae470,data/audio/wav/00077.wav,00077,77,Bonnes vacances
-YEM__2001-cd2d9ae470,2001-cd2d9ae470,YEM__2001-cd2d9ae470_000000-000002,cd2d9ae470,data/audio/wav/00078.wav,00078,78,Bonne journée 
-YEM__2001-cd2d9ae470,2001-cd2d9ae470,YEM__2001-cd2d9ae470_000000-000002,cd2d9ae470,data/audio/wav/00079.wav,00079,79,Bonne soirée
-YEM__2001-cd2d9ae470,2001-cd2d9ae470,YEM__2001-cd2d9ae470_000000-000003,cd2d9ae470,data/audio/wav/00080.wav,00080,80,Bonne année 
-YEM__2001-cd2d9ae470,2001-cd2d9ae470,YEM__2001-cd2d9ae470_000000-000002,cd2d9ae470,data/audio/wav/00081.wav,00081,81,A bientôt
-YEM__2001-cd2d9ae470,2001-cd2d9ae470,YEM__2001-cd2d9ae470_000000-000003,cd2d9ae470,data/audio/wav/00082.wav,00082,82,je te remercie beaucoup.
-YEM__2001-cd2d9ae470,2001-cd2d9ae470,YEM__2001-cd2d9ae470_000000-000003,cd2d9ae470,data/audio/wav/00083.wav,00083,83,Merci beaucoup Madame.
-YEM__2001-cd2d9ae470,2001-cd2d9ae470,YEM__2001-cd2d9ae470_000000-000004,cd2d9ae470,data/audio/wav/00084.wav,00084,84,Je te remercie très sincèrement.
-YEM__2001-cd2d9ae470,2001-cd2d9ae470,YEM__2001-cd2d9ae470_000000-000004,cd2d9ae470,data/audio/wav/00085.wav,00085,85,Je vous remercie infiniment.
-YEM__2001-cd2d9ae470,2001-cd2d9ae470,YEM__2001-cd2d9ae470_000000-000003,cd2d9ae470,data/audio/wav/00086.wav,00086,86,"Merci bien, jeune homme."
-YEM__2001-cd2d9ae470,2001-cd2d9ae470,YEM__2001-cd2d9ae470_000000-000004,cd2d9ae470,data/audio/wav/00087.wav,00087,87,C'est très aimable à vous.
-YEM__2001-cd2d9ae470,2001-cd2d9ae470,YEM__2001-cd2d9ae470_000000-000003,cd2d9ae470,data/audio/wav/00088.wav,00088,88,C'est très gentil à vous. 
-YEM__2001-cd2d9ae470,2001-cd2d9ae470,YEM__2001-cd2d9ae470_000000-000003,cd2d9ae470,data/audio/wav/00089.wav,00089,89,Bienvenue
-YEM__2001-cd2d9ae470,2001-cd2d9ae470,YEM__2001-cd2d9ae470_000000-000002,cd2d9ae470,data/audio/wav/00090.wav,00090,90,C’est combien ?
-YEM__2001-cd2d9ae470,2001-cd2d9ae470,YEM__2001-cd2d9ae470_000000-000002,cd2d9ae470,data/audio/wav/00091.wav,00091,91,Oui
-YEM__2001-cd2d9ae470,2001-cd2d9ae470,YEM__2001-cd2d9ae470_000000-000002,cd2d9ae470,data/audio/wav/00092.wav,00092,92,Non
-YEM__2001-cd2d9ae470,2001-cd2d9ae470,YEM__2001-cd2d9ae470_000000-000002,cd2d9ae470,data/audio/wav/00093.wav,00093,93,Au revoir
-YEM__2001-cd2d9ae470,2001-cd2d9ae470,YEM__2001-cd2d9ae470_000000-000002,cd2d9ae470,data/audio/wav/00094.wav,00094,94,Comment allez-vous ?
-YEM__2001-cd2d9ae470,2001-cd2d9ae470,YEM__2001-cd2d9ae470_000000-000003,cd2d9ae470,data/audio/wav/00095.wav,00095,95,"Très bien, merci, et vous ?"
-YEM__2001-cd2d9ae470,2001-cd2d9ae470,YEM__2001-cd2d9ae470_000000-000003,cd2d9ae470,data/audio/wav/00096.wav,00096,96,Parlez-vous français?
-YEM__2001-cd2d9ae470,2001-cd2d9ae470,YEM__2001-cd2d9ae470_000000-000003,cd2d9ae470,data/audio/wav/00097.wav,00097,97,Parlez-vous anglais ?
-YEM__2001-cd2d9ae470,2001-cd2d9ae470,YEM__2001-cd2d9ae470_000000-000002,cd2d9ae470,data/audio/wav/00098.wav,00098,98,Pardon
-YEM__2001-cd2d9ae470,2001-cd2d9ae470,YEM__2001-cd2d9ae470_000000-000003,cd2d9ae470,data/audio/wav/00099.wav,00099,99,Je comprends
-YEM__2001-cd2d9ae470,2001-cd2d9ae470,YEM__2001-cd2d9ae470_000000-000003,cd2d9ae470,data/audio/wav/00100.wav,00100,100,Je ne comprends pas
-YEM__2001-cd2d9ae470,2001-cd2d9ae470,YEM__2001-cd2d9ae470_000000-000003,cd2d9ae470,data/audio/wav/00101.wav,00101,101,Excusez-moi
-YEM__2001-cd2d9ae470,2001-cd2d9ae470,YEM__2001-cd2d9ae470_000000-000002,cd2d9ae470,data/audio/wav/00102.wav,00102,102,Non merci
-YEM__2001-cd2d9ae470,2001-cd2d9ae470,YEM__2001-cd2d9ae470_000000-000003,cd2d9ae470,data/audio/wav/00103.wav,00103,103,De rien
-YEM__2001-cd2d9ae470,2001-cd2d9ae470,YEM__2001-cd2d9ae470_000000-000003,cd2d9ae470,data/audio/wav/00104.wav,00104,104,Je vous en prie
-YEM__2001-cd2d9ae470,2001-cd2d9ae470,YEM__2001-cd2d9ae470_000000-000002,cd2d9ae470,data/audio/wav/00105.wav,00105,105,C’est très bon marché
-YEM__2001-cd2d9ae470,2001-cd2d9ae470,YEM__2001-cd2d9ae470_000000-000002,cd2d9ae470,data/audio/wav/00106.wav,00106,106,C’est trop cher 
-YEM__2001-cd2d9ae470,2001-cd2d9ae470,YEM__2001-cd2d9ae470_000000-000003,cd2d9ae470,data/audio/wav/00107.wav,00107,107,Pouvez-vous baisser le prix ?
-YEM__2001-cd2d9ae470,2001-cd2d9ae470,YEM__2001-cd2d9ae470_000000-000003,cd2d9ae470,data/audio/wav/00108.wav,00108,108,Je voudrais acheter
-YEM__2001-cd2d9ae470,2001-cd2d9ae470,YEM__2001-cd2d9ae470_000000-000003,cd2d9ae470,data/audio/wav/00109.wav,00109,109,Je voudrais acheter ça
-YEM__2001-cd2d9ae470,2001-cd2d9ae470,YEM__2001-cd2d9ae470_000000-000003,cd2d9ae470,data/audio/wav/00110.wav,00110,110,Je voudrais acheter celui-ci
-YEM__2001-cd2d9ae470,2001-cd2d9ae470,YEM__2001-cd2d9ae470_000000-000002,cd2d9ae470,data/audio/wav/00111.wav,00111,111,J’adore
-YEM__2001-cd2d9ae470,2001-cd2d9ae470,YEM__2001-cd2d9ae470_000000-000002,cd2d9ae470,data/audio/wav/00112.wav,00112,112,Je déteste
-YEM__2001-cd2d9ae470,2001-cd2d9ae470,YEM__2001-cd2d9ae470_000000-000002,cd2d9ae470,data/audio/wav/00113.wav,00113,113,Argent
-YEM__2001-cd2d9ae470,2001-cd2d9ae470,YEM__2001-cd2d9ae470_000000-000003,cd2d9ae470,data/audio/wav/00114.wav,00114,114,Je ne fais que regarder.
-YEM__2001-cd2d9ae470,2001-cd2d9ae470,YEM__2001-cd2d9ae470_000000-000002,cd2d9ae470,data/audio/wav/00115.wav,00115,115,Je voudrais aller
-YEM__2001-cd2d9ae470,2001-cd2d9ae470,YEM__2001-cd2d9ae470_000000-000002,cd2d9ae470,data/audio/wav/00116.wav,00116,116,Avion
-YEM__2001-cd2d9ae470,2001-cd2d9ae470,YEM__2001-cd2d9ae470_000000-000002,cd2d9ae470,data/audio/wav/00117.wav,00117,117,Bateau
-YEM__2001-cd2d9ae470,2001-cd2d9ae470,YEM__2001-cd2d9ae470_000000-000002,cd2d9ae470,data/audio/wav/00118.wav,00118,118,Train
-YEM__2001-cd2d9ae470,2001-cd2d9ae470,YEM__2001-cd2d9ae470_000000-000002,cd2d9ae470,data/audio/wav/00119.wav,00119,119,Taxi
-YEM__2001-cd2d9ae470,2001-cd2d9ae470,YEM__2001-cd2d9ae470_000000-000002,cd2d9ae470,data/audio/wav/00120.wav,00120,120,Bus
-YEM__2001-cd2d9ae470,2001-cd2d9ae470,YEM__2001-cd2d9ae470_000000-000003,cd2d9ae470,data/audio/wav/00121.wav,00121,121,Je voudrais louer
-YEM__2001-cd2d9ae470,2001-cd2d9ae470,YEM__2001-cd2d9ae470_000000-000002,cd2d9ae470,data/audio/wav/00122.wav,00122,122,Moto
-YEM__2001-cd2d9ae470,2001-cd2d9ae470,YEM__2001-cd2d9ae470_000000-000002,cd2d9ae470,data/audio/wav/00123.wav,00123,123,Voiture
-YEM__2001-cd2d9ae470,2001-cd2d9ae470,YEM__2001-cd2d9ae470_000000-000003,cd2d9ae470,data/audio/wav/00124.wav,00124,124,Vélo
-YEM__2001-cd2d9ae470,2001-cd2d9ae470,YEM__2001-cd2d9ae470_000000-000002,cd2d9ae470,data/audio/wav/00125.wav,00125,125,Où est
-YEM__2001-cd2d9ae470,2001-cd2d9ae470,YEM__2001-cd2d9ae470_000000-000002,cd2d9ae470,data/audio/wav/00126.wav,00126,126,Comment aller à
-YEM__2001-cd2d9ae470,2001-cd2d9ae470,YEM__2001-cd2d9ae470_000000-000002,cd2d9ae470,data/audio/wav/00127.wav,00127,127,Banque
-YEM__2001-cd2d9ae470,2001-cd2d9ae470,YEM__2001-cd2d9ae470_000000-000002,cd2d9ae470,data/audio/wav/00129.wav,00129,129,Centre-ville
-YEM__2001-cd2d9ae470,2001-cd2d9ae470,YEM__2001-cd2d9ae470_000000-000002,cd2d9ae470,data/audio/wav/00131.wav,00131,131,Hôpital
-YEM__2001-cd2d9ae470,2001-cd2d9ae470,YEM__2001-cd2d9ae470_000000-000002,cd2d9ae470,data/audio/wav/00132.wav,00132,132,Est-ce près?
-YEM__2001-cd2d9ae470,2001-cd2d9ae470,YEM__2001-cd2d9ae470_000000-000002,cd2d9ae470,data/audio/wav/00133.wav,00133,133,Est-ce loin ?
-YEM__2001-cd2d9ae470,2001-cd2d9ae470,YEM__2001-cd2d9ae470_000000-000003,cd2d9ae470,data/audio/wav/00134.wav,00134,134,Tout droit
-YEM__2001-cd2d9ae470,2001-cd2d9ae470,YEM__2001-cd2d9ae470_000000-000002,cd2d9ae470,data/audio/wav/00141.wav,00141,141,un
-YEM__2001-cd2d9ae470,2001-cd2d9ae470,YEM__2001-cd2d9ae470_000000-000002,cd2d9ae470,data/audio/wav/00142.wav,00142,142,deux
-YEM__2001-cd2d9ae470,2001-cd2d9ae470,YEM__2001-cd2d9ae470_000000-000002,cd2d9ae470,data/audio/wav/00143.wav,00143,143,trois
-YEM__2001-cd2d9ae470,2001-cd2d9ae470,YEM__2001-cd2d9ae470_000000-000002,cd2d9ae470,data/audio/wav/00144.wav,00144,144,quatre
-YEM__2001-cd2d9ae470,2001-cd2d9ae470,YEM__2001-cd2d9ae470_000000-000002,cd2d9ae470,data/audio/wav/00145.wav,00145,145,cinq
-YEM__2001-cd2d9ae470,2001-cd2d9ae470,YEM__2001-cd2d9ae470_000000-000002,cd2d9ae470,data/audio/wav/00146.wav,00146,146,six
-YEM__2001-cd2d9ae470,2001-cd2d9ae470,YEM__2001-cd2d9ae470_000000-000002,cd2d9ae470,data/audio/wav/00147.wav,00147,147,sept
-YEM__2001-cd2d9ae470,2001-cd2d9ae470,YEM__2001-cd2d9ae470_000000-000002,cd2d9ae470,data/audio/wav/00148.wav,00148,148,huit
-YEM__2001-cd2d9ae470,2001-cd2d9ae470,YEM__2001-cd2d9ae470_000000-000002,cd2d9ae470,data/audio/wav/00149.wav,00149,149,neuf
-YEM__2001-cd2d9ae470,2001-cd2d9ae470,YEM__2001-cd2d9ae470_000000-000002,cd2d9ae470,data/audio/wav/00150.wav,00150,150,dix
-YEM__2001-cd2d9ae470,2001-cd2d9ae470,YEM__2001-cd2d9ae470_000000-000002,cd2d9ae470,data/audio/wav/00151.wav,00151,151,vingt
-YEM__2001-cd2d9ae470,2001-cd2d9ae470,YEM__2001-cd2d9ae470_000000-000002,cd2d9ae470,data/audio/wav/00152.wav,00152,152,trente
+YEM_00001__2001-11caaced8f,2001-11caaced8f,YEM_00001__2001-11caaced8f_000000-000003,11caaced8f,data/audio/wav/00001.wav,00001,1,bonjour 
+YEM_00002__2001-11caaced8f,2001-11caaced8f,YEM_00002__2001-11caaced8f_000000-000002,11caaced8f,data/audio/wav/00002.wav,00002,2,bonsoir 
+YEM_00003__2001-11caaced8f,2001-11caaced8f,YEM_00003__2001-11caaced8f_000000-000003,11caaced8f,data/audio/wav/00003.wav,00003,3,je m'appelle
+YEM_00004__2001-11caaced8f,2001-11caaced8f,YEM_00004__2001-11caaced8f_000000-000002,11caaced8f,data/audio/wav/00004.wav,00004,4,je suis
+YEM_00005__2001-11caaced8f,2001-11caaced8f,YEM_00005__2001-11caaced8f_000000-000002,11caaced8f,data/audio/wav/00005.wav,00005,5,j'ai faim
+YEM_00006__2001-11caaced8f,2001-11caaced8f,YEM_00006__2001-11caaced8f_000000-000003,11caaced8f,data/audio/wav/00006.wav,00006,6,je vais au marché
+YEM_00007__2001-11caaced8f,2001-11caaced8f,YEM_00007__2001-11caaced8f_000000-000002,11caaced8f,data/audio/wav/00007.wav,00007,7,Entrez
+YEM_00008__2001-11caaced8f,2001-11caaced8f,YEM_00008__2001-11caaced8f_000000-000002,11caaced8f,data/audio/wav/00008.wav,00008,8,entre
+YEM_00009__2001-11caaced8f,2001-11caaced8f,YEM_00009__2001-11caaced8f_000000-000002,11caaced8f,data/audio/wav/00009.wav,00009,9,Sortez 
+YEM_00010__2001-11caaced8f,2001-11caaced8f,YEM_00010__2001-11caaced8f_000000-000002,11caaced8f,data/audio/wav/00010.wav,00010,10,sors
+YEM_00011__2001-11caaced8f,2001-11caaced8f,YEM_00011__2001-11caaced8f_000000-000004,11caaced8f,data/audio/wav/00011.wav,00011,11,je ne me sens pas bien 
+YEM_00012__2001-11caaced8f,2001-11caaced8f,YEM_00012__2001-11caaced8f_000000-000003,11caaced8f,data/audio/wav/00012.wav,00012,12,est ce que je peux aller à la maison ?
+YEM_00013__2001-11caaced8f,2001-11caaced8f,YEM_00013__2001-11caaced8f_000000-000003,11caaced8f,data/audio/wav/00013.wav,00013,13,Ça va comme ça ?
+YEM_00014__2001-11caaced8f,2001-11caaced8f,YEM_00014__2001-11caaced8f_000000-000003,11caaced8f,data/audio/wav/00014.wav,00014,14,Asseyez-vous 
+YEM_00015__2001-11caaced8f,2001-11caaced8f,YEM_00015__2001-11caaced8f_000000-000002,11caaced8f,data/audio/wav/00015.wav,00015,15,va t´asseoir
+YEM_00016__2001-11caaced8f,2001-11caaced8f,YEM_00016__2001-11caaced8f_000000-000003,11caaced8f,data/audio/wav/00016.wav,00016,16,Qui n´est pas là aujourd´hui ?
+YEM_00017__2001-11caaced8f,2001-11caaced8f,YEM_00017__2001-11caaced8f_000000-000002,11caaced8f,data/audio/wav/00017.wav,00017,17,Efface
+YEM_00018__2001-11caaced8f,2001-11caaced8f,YEM_00018__2001-11caaced8f_000000-000002,11caaced8f,data/audio/wav/00018.wav,00018,18,Efface le tableau
+YEM_00019__2001-11caaced8f,2001-11caaced8f,YEM_00019__2001-11caaced8f_000000-000003,11caaced8f,data/audio/wav/00019.wav,00019,19,Où est la brosse ?
+YEM_00020__2001-11caaced8f,2001-11caaced8f,YEM_00020__2001-11caaced8f_000000-000003,11caaced8f,data/audio/wav/00020.wav,00020,20,Où est ta brosse ?
+YEM_00021__2001-11caaced8f,2001-11caaced8f,YEM_00021__2001-11caaced8f_000000-000003,11caaced8f,data/audio/wav/00021.wav,00021,21,Fermez la porte
+YEM_00022__2001-11caaced8f,2001-11caaced8f,YEM_00022__2001-11caaced8f_000000-000003,11caaced8f,data/audio/wav/00022.wav,00022,22,Ouvrez la fenêtre
+YEM_00023__2001-11caaced8f,2001-11caaced8f,YEM_00023__2001-11caaced8f_000000-000003,11caaced8f,data/audio/wav/00023.wav,00023,23,Change de place.
+YEM_00024__2001-11caaced8f,2001-11caaced8f,YEM_00024__2001-11caaced8f_000000-000003,11caaced8f,data/audio/wav/00024.wav,00024,24,Sortez votre matériel.
+YEM_00025__2001-11caaced8f,2001-11caaced8f,YEM_00025__2001-11caaced8f_000000-000003,11caaced8f,data/audio/wav/00025.wav,00025,25,Taisez-vous s´il-vous plaît 
+YEM_00027__2001-11caaced8f,2001-11caaced8f,YEM_00027__2001-11caaced8f_000000-000004,11caaced8f,data/audio/wav/00027.wav,00027,27,Fermez vos livres et prenez votre cahier 
+YEM_00028__2001-11caaced8f,2001-11caaced8f,YEM_00028__2001-11caaced8f_000000-000003,11caaced8f,data/audio/wav/00028.wav,00028,28,C´est difficile
+YEM_00029__2001-11caaced8f,2001-11caaced8f,YEM_00029__2001-11caaced8f_000000-000004,11caaced8f,data/audio/wav/00029.wav,00029,29,Je ne sais pas faire les exercices
+YEM_00030__2001-11caaced8f,2001-11caaced8f,YEM_00030__2001-11caaced8f_000000-000003,11caaced8f,data/audio/wav/00030.wav,00030,30,Je n´ai pas fini
+YEM_00031__2001-11caaced8f,2001-11caaced8f,YEM_00031__2001-11caaced8f_000000-000005,11caaced8f,data/audio/wav/00031.wav,00031,31,Qu´est-ce qu´il faut faire pour la prochaine fois ?
+YEM_00033__2001-11caaced8f,2001-11caaced8f,YEM_00033__2001-11caaced8f_000000-000004,11caaced8f,data/audio/wav/00033.wav,00033,33,Quels exercices il faut faire ?
+YEM_00034__2001-11caaced8f,2001-11caaced8f,YEM_00034__2001-11caaced8f_000000-000003,11caaced8f,data/audio/wav/00034.wav,00034,34,Je ne comprends pas 
+YEM_00035__2001-11caaced8f,2001-11caaced8f,YEM_00035__2001-11caaced8f_000000-000003,11caaced8f,data/audio/wav/00035.wav,00035,35,Vous pouvez répéter ?
+YEM_00036__2001-11caaced8f,2001-11caaced8f,YEM_00036__2001-11caaced8f_000000-000003,11caaced8f,data/audio/wav/00036.wav,00036,36,Comment ça s´écrit ?
+YEM_00038__2001-11caaced8f,2001-11caaced8f,YEM_00038__2001-11caaced8f_000000-000002,11caaced8f,data/audio/wav/00038.wav,00038,38,Plus fort
+YEM_00039__2001-11caaced8f,2001-11caaced8f,YEM_00039__2001-11caaced8f_000000-000003,11caaced8f,data/audio/wav/00039.wav,00039,39,Encore une fois
+YEM_00040__2001-11caaced8f,2001-11caaced8f,YEM_00040__2001-11caaced8f_000000-000003,11caaced8f,data/audio/wav/00040.wav,00040,40,Ça va c´est bien
+YEM_00041__2001-11caaced8f,2001-11caaced8f,YEM_00041__2001-11caaced8f_000000-000003,11caaced8f,data/audio/wav/00041.wav,00041,41,ça suffit.
+YEM_00042__2001-11caaced8f,2001-11caaced8f,YEM_00042__2001-11caaced8f_000000-000005,11caaced8f,data/audio/wav/00042.wav,00042,42,Tu peux parler plus fort s´il te plait je n´entends pas?
+YEM_00043__2001-11caaced8f,2001-11caaced8f,YEM_00043__2001-11caaced8f_000000-000004,11caaced8f,data/audio/wav/00043.wav,00043,43,Vous entendez bien au fond ?
+YEM_00044__2001-11caaced8f,2001-11caaced8f,YEM_00044__2001-11caaced8f_000000-000003,11caaced8f,data/audio/wav/00044.wav,00044,44,Je peux changer de place ?
+YEM_00045__2001-11caaced8f,2001-11caaced8f,YEM_00045__2001-11caaced8f_000000-000004,11caaced8f,data/audio/wav/00045.wav,00045,45,Je peux m´asseoir à côté de ...?
+YEM_00046__2001-11caaced8f,2001-11caaced8f,YEM_00046__2001-11caaced8f_000000-000003,11caaced8f,data/audio/wav/00046.wav,00046,46,Je peux ouvrir ou fermer la fenêtre ?
+YEM_00047__2001-11caaced8f,2001-11caaced8f,YEM_00047__2001-11caaced8f_000000-000003,11caaced8f,data/audio/wav/00047.wav,00047,47,Je peux effacer le tableau ?
+YEM_00048__2001-11caaced8f,2001-11caaced8f,YEM_00048__2001-11caaced8f_000000-000003,11caaced8f,data/audio/wav/00048.wav,00048,48,Je peux écrire la date ?
+YEM_00049__2001-11caaced8f,2001-11caaced8f,YEM_00049__2001-11caaced8f_000000-000003,11caaced8f,data/audio/wav/00049.wav,00049,49,Je peux sortir ?
+YEM_00050__2001-11caaced8f,2001-11caaced8f,YEM_00050__2001-11caaced8f_000000-000003,11caaced8f,data/audio/wav/00050.wav,00050,50,Je peux aller aux toilettes ?
+YEM_00051__2001-11caaced8f,2001-11caaced8f,YEM_00051__2001-11caaced8f_000000-000003,11caaced8f,data/audio/wav/00051.wav,00051,51,J´ai oublié mon livre
+YEM_00052__2001-11caaced8f,2001-11caaced8f,YEM_00052__2001-11caaced8f_000000-000002,11caaced8f,data/audio/wav/00052.wav,00052,52,mon cahier
+YEM_00053__2001-11caaced8f,2001-11caaced8f,YEM_00053__2001-11caaced8f_000000-000003,11caaced8f,data/audio/wav/00053.wav,00053,53,Je n´ai pas de stylo
+YEM_00054__2001-11caaced8f,2001-11caaced8f,YEM_00054__2001-11caaced8f_000000-000003,11caaced8f,data/audio/wav/00054.wav,00054,54,J´ai perdu la photocopie
+YEM_00055__2001-11caaced8f,2001-11caaced8f,YEM_00055__2001-11caaced8f_000000-000003,11caaced8f,data/audio/wav/00055.wav,00055,55,Qu´est-ce que ça veut dire
+YEM_00056__2001-11caaced8f,2001-11caaced8f,YEM_00056__2001-11caaced8f_000000-000002,11caaced8f,data/audio/wav/00056.wav,00056,56,Adieu les amis 
+YEM_00057__2001-11caaced8f,2001-11caaced8f,YEM_00057__2001-11caaced8f_000000-000003,11caaced8f,data/audio/wav/00057.wav,00057,57,vous pouvez m'aider s'il vous plaît ?
+YEM_00058__2001-11caaced8f,2001-11caaced8f,YEM_00058__2001-11caaced8f_000000-000003,11caaced8f,data/audio/wav/00058.wav,00058,58,Venez ici s'il vous plait ?
+YEM_00059__2001-11caaced8f,2001-11caaced8f,YEM_00059__2001-11caaced8f_000000-000005,11caaced8f,data/audio/wav/00059.wav,00059,59,Vous avez 10 min pour moi 
+YEM_00060__2001-11caaced8f,2001-11caaced8f,YEM_00060__2001-11caaced8f_000000-000003,11caaced8f,data/audio/wav/00060.wav,00060,60,Ecoutez bien
+YEM_00061__2001-11caaced8f,2001-11caaced8f,YEM_00061__2001-11caaced8f_000000-000002,11caaced8f,data/audio/wav/00061.wav,00061,61,Regardez ici
+YEM_00062__2001-11caaced8f,2001-11caaced8f,YEM_00062__2001-11caaced8f_000000-000003,11caaced8f,data/audio/wav/00062.wav,00062,62,Ou se trouve la ville
+YEM_00063__2001-11caaced8f,2001-11caaced8f,YEM_00063__2001-11caaced8f_000000-000002,11caaced8f,data/audio/wav/00063.wav,00063,63,Je serai absent demain 
+YEM_00064__2001-11caaced8f,2001-11caaced8f,YEM_00064__2001-11caaced8f_000000-000003,11caaced8f,data/audio/wav/00064.wav,00064,64,Je  ne serai pas la semaine prochaine 
+YEM_00065__2001-11caaced8f,2001-11caaced8f,YEM_00065__2001-11caaced8f_000000-000002,11caaced8f,data/audio/wav/00065.wav,00065,65,Vous pouvez répétez ?
+YEM_00066__2001-11caaced8f,2001-11caaced8f,YEM_00066__2001-11caaced8f_000000-000002,11caaced8f,data/audio/wav/00066.wav,00066,66,C´est bien 
+YEM_00067__2001-11caaced8f,2001-11caaced8f,YEM_00067__2001-11caaced8f_000000-000003,11caaced8f,data/audio/wav/00067.wav,00067,67,très bien 
+YEM_00069__2001-11caaced8f,2001-11caaced8f,YEM_00069__2001-11caaced8f_000000-000003,11caaced8f,data/audio/wav/00069.wav,00069,69,excellent 
+YEM_00070__2001-11caaced8f,2001-11caaced8f,YEM_00070__2001-11caaced8f_000000-000002,11caaced8f,data/audio/wav/00070.wav,00070,70,Tu as très bien compris
+YEM_00071__2001-11caaced8f,2001-11caaced8f,YEM_00071__2001-11caaced8f_000000-000002,11caaced8f,data/audio/wav/00071.wav,00071,71,C´est un bon travail 
+YEM_00072__2001-11caaced8f,2001-11caaced8f,YEM_00072__2001-11caaced8f_000000-000002,11caaced8f,data/audio/wav/00072.wav,00072,72,Tu as gagné un
+YEM_00073__2001-11caaced8f,2001-11caaced8f,YEM_00073__2001-11caaced8f_000000-000002,11caaced8f,data/audio/wav/00073.wav,00073,73,Tu t´es trompé 
+YEM_00074__2001-11caaced8f,2001-11caaced8f,YEM_00074__2001-11caaced8f_000000-000002,11caaced8f,data/audio/wav/00074.wav,00074,74,Ce n´est pas comme ça
+YEM_00075__2001-11caaced8f,2001-11caaced8f,YEM_00075__2001-11caaced8f_000000-000003,11caaced8f,data/audio/wav/00075.wav,00075,75,Au revoir 
+YEM_00076__2001-11caaced8f,2001-11caaced8f,YEM_00076__2001-11caaced8f_000000-000003,11caaced8f,data/audio/wav/00076.wav,00076,76,A la semaine prochaine 
+YEM_00077__2001-11caaced8f,2001-11caaced8f,YEM_00077__2001-11caaced8f_000000-000003,11caaced8f,data/audio/wav/00077.wav,00077,77,Bonnes vacances
+YEM_00078__2001-11caaced8f,2001-11caaced8f,YEM_00078__2001-11caaced8f_000000-000002,11caaced8f,data/audio/wav/00078.wav,00078,78,Bonne journée 
+YEM_00079__2001-11caaced8f,2001-11caaced8f,YEM_00079__2001-11caaced8f_000000-000002,11caaced8f,data/audio/wav/00079.wav,00079,79,Bonne soirée
+YEM_00080__2001-11caaced8f,2001-11caaced8f,YEM_00080__2001-11caaced8f_000000-000003,11caaced8f,data/audio/wav/00080.wav,00080,80,Bonne année 
+YEM_00081__2001-11caaced8f,2001-11caaced8f,YEM_00081__2001-11caaced8f_000000-000002,11caaced8f,data/audio/wav/00081.wav,00081,81,A bientôt
+YEM_00082__2001-11caaced8f,2001-11caaced8f,YEM_00082__2001-11caaced8f_000000-000003,11caaced8f,data/audio/wav/00082.wav,00082,82,je te remercie beaucoup.
+YEM_00083__2001-11caaced8f,2001-11caaced8f,YEM_00083__2001-11caaced8f_000000-000003,11caaced8f,data/audio/wav/00083.wav,00083,83,Merci beaucoup Madame.
+YEM_00084__2001-11caaced8f,2001-11caaced8f,YEM_00084__2001-11caaced8f_000000-000004,11caaced8f,data/audio/wav/00084.wav,00084,84,Je te remercie très sincèrement.
+YEM_00085__2001-11caaced8f,2001-11caaced8f,YEM_00085__2001-11caaced8f_000000-000004,11caaced8f,data/audio/wav/00085.wav,00085,85,Je vous remercie infiniment.
+YEM_00086__2001-11caaced8f,2001-11caaced8f,YEM_00086__2001-11caaced8f_000000-000003,11caaced8f,data/audio/wav/00086.wav,00086,86,"Merci bien, jeune homme."
+YEM_00087__2001-11caaced8f,2001-11caaced8f,YEM_00087__2001-11caaced8f_000000-000004,11caaced8f,data/audio/wav/00087.wav,00087,87,C'est très aimable à vous.
+YEM_00088__2001-11caaced8f,2001-11caaced8f,YEM_00088__2001-11caaced8f_000000-000003,11caaced8f,data/audio/wav/00088.wav,00088,88,C'est très gentil à vous. 
+YEM_00089__2001-11caaced8f,2001-11caaced8f,YEM_00089__2001-11caaced8f_000000-000003,11caaced8f,data/audio/wav/00089.wav,00089,89,Bienvenue
+YEM_00090__2001-11caaced8f,2001-11caaced8f,YEM_00090__2001-11caaced8f_000000-000002,11caaced8f,data/audio/wav/00090.wav,00090,90,C’est combien ?
+YEM_00091__2001-11caaced8f,2001-11caaced8f,YEM_00091__2001-11caaced8f_000000-000002,11caaced8f,data/audio/wav/00091.wav,00091,91,Oui
+YEM_00092__2001-11caaced8f,2001-11caaced8f,YEM_00092__2001-11caaced8f_000000-000002,11caaced8f,data/audio/wav/00092.wav,00092,92,Non
+YEM_00093__2001-11caaced8f,2001-11caaced8f,YEM_00093__2001-11caaced8f_000000-000002,11caaced8f,data/audio/wav/00093.wav,00093,93,Au revoir
+YEM_00094__2001-11caaced8f,2001-11caaced8f,YEM_00094__2001-11caaced8f_000000-000002,11caaced8f,data/audio/wav/00094.wav,00094,94,Comment allez-vous ?
+YEM_00095__2001-11caaced8f,2001-11caaced8f,YEM_00095__2001-11caaced8f_000000-000003,11caaced8f,data/audio/wav/00095.wav,00095,95,"Très bien, merci, et vous ?"
+YEM_00096__2001-11caaced8f,2001-11caaced8f,YEM_00096__2001-11caaced8f_000000-000003,11caaced8f,data/audio/wav/00096.wav,00096,96,Parlez-vous français?
+YEM_00097__2001-11caaced8f,2001-11caaced8f,YEM_00097__2001-11caaced8f_000000-000003,11caaced8f,data/audio/wav/00097.wav,00097,97,Parlez-vous anglais ?
+YEM_00098__2001-11caaced8f,2001-11caaced8f,YEM_00098__2001-11caaced8f_000000-000002,11caaced8f,data/audio/wav/00098.wav,00098,98,Pardon
+YEM_00099__2001-11caaced8f,2001-11caaced8f,YEM_00099__2001-11caaced8f_000000-000003,11caaced8f,data/audio/wav/00099.wav,00099,99,Je comprends
+YEM_00100__2001-11caaced8f,2001-11caaced8f,YEM_00100__2001-11caaced8f_000000-000003,11caaced8f,data/audio/wav/00100.wav,00100,100,Je ne comprends pas
+YEM_00101__2001-11caaced8f,2001-11caaced8f,YEM_00101__2001-11caaced8f_000000-000003,11caaced8f,data/audio/wav/00101.wav,00101,101,Excusez-moi
+YEM_00102__2001-11caaced8f,2001-11caaced8f,YEM_00102__2001-11caaced8f_000000-000002,11caaced8f,data/audio/wav/00102.wav,00102,102,Non merci
+YEM_00103__2001-11caaced8f,2001-11caaced8f,YEM_00103__2001-11caaced8f_000000-000003,11caaced8f,data/audio/wav/00103.wav,00103,103,De rien
+YEM_00104__2001-11caaced8f,2001-11caaced8f,YEM_00104__2001-11caaced8f_000000-000003,11caaced8f,data/audio/wav/00104.wav,00104,104,Je vous en prie
+YEM_00105__2001-11caaced8f,2001-11caaced8f,YEM_00105__2001-11caaced8f_000000-000002,11caaced8f,data/audio/wav/00105.wav,00105,105,C’est très bon marché
+YEM_00106__2001-11caaced8f,2001-11caaced8f,YEM_00106__2001-11caaced8f_000000-000002,11caaced8f,data/audio/wav/00106.wav,00106,106,C’est trop cher 
+YEM_00107__2001-11caaced8f,2001-11caaced8f,YEM_00107__2001-11caaced8f_000000-000003,11caaced8f,data/audio/wav/00107.wav,00107,107,Pouvez-vous baisser le prix ?
+YEM_00108__2001-11caaced8f,2001-11caaced8f,YEM_00108__2001-11caaced8f_000000-000003,11caaced8f,data/audio/wav/00108.wav,00108,108,Je voudrais acheter
+YEM_00109__2001-11caaced8f,2001-11caaced8f,YEM_00109__2001-11caaced8f_000000-000003,11caaced8f,data/audio/wav/00109.wav,00109,109,Je voudrais acheter ça
+YEM_00110__2001-11caaced8f,2001-11caaced8f,YEM_00110__2001-11caaced8f_000000-000003,11caaced8f,data/audio/wav/00110.wav,00110,110,Je voudrais acheter celui-ci
+YEM_00111__2001-11caaced8f,2001-11caaced8f,YEM_00111__2001-11caaced8f_000000-000002,11caaced8f,data/audio/wav/00111.wav,00111,111,J’adore
+YEM_00112__2001-11caaced8f,2001-11caaced8f,YEM_00112__2001-11caaced8f_000000-000002,11caaced8f,data/audio/wav/00112.wav,00112,112,Je déteste
+YEM_00113__2001-11caaced8f,2001-11caaced8f,YEM_00113__2001-11caaced8f_000000-000002,11caaced8f,data/audio/wav/00113.wav,00113,113,Argent
+YEM_00114__2001-11caaced8f,2001-11caaced8f,YEM_00114__2001-11caaced8f_000000-000003,11caaced8f,data/audio/wav/00114.wav,00114,114,Je ne fais que regarder.
+YEM_00115__2001-11caaced8f,2001-11caaced8f,YEM_00115__2001-11caaced8f_000000-000002,11caaced8f,data/audio/wav/00115.wav,00115,115,Je voudrais aller
+YEM_00116__2001-11caaced8f,2001-11caaced8f,YEM_00116__2001-11caaced8f_000000-000002,11caaced8f,data/audio/wav/00116.wav,00116,116,Avion
+YEM_00117__2001-11caaced8f,2001-11caaced8f,YEM_00117__2001-11caaced8f_000000-000002,11caaced8f,data/audio/wav/00117.wav,00117,117,Bateau
+YEM_00118__2001-11caaced8f,2001-11caaced8f,YEM_00118__2001-11caaced8f_000000-000002,11caaced8f,data/audio/wav/00118.wav,00118,118,Train
+YEM_00119__2001-11caaced8f,2001-11caaced8f,YEM_00119__2001-11caaced8f_000000-000002,11caaced8f,data/audio/wav/00119.wav,00119,119,Taxi
+YEM_00120__2001-11caaced8f,2001-11caaced8f,YEM_00120__2001-11caaced8f_000000-000002,11caaced8f,data/audio/wav/00120.wav,00120,120,Bus
+YEM_00121__2001-11caaced8f,2001-11caaced8f,YEM_00121__2001-11caaced8f_000000-000003,11caaced8f,data/audio/wav/00121.wav,00121,121,Je voudrais louer
+YEM_00122__2001-11caaced8f,2001-11caaced8f,YEM_00122__2001-11caaced8f_000000-000002,11caaced8f,data/audio/wav/00122.wav,00122,122,Moto
+YEM_00123__2001-11caaced8f,2001-11caaced8f,YEM_00123__2001-11caaced8f_000000-000002,11caaced8f,data/audio/wav/00123.wav,00123,123,Voiture
+YEM_00124__2001-11caaced8f,2001-11caaced8f,YEM_00124__2001-11caaced8f_000000-000003,11caaced8f,data/audio/wav/00124.wav,00124,124,Vélo
+YEM_00125__2001-11caaced8f,2001-11caaced8f,YEM_00125__2001-11caaced8f_000000-000002,11caaced8f,data/audio/wav/00125.wav,00125,125,Où est
+YEM_00126__2001-11caaced8f,2001-11caaced8f,YEM_00126__2001-11caaced8f_000000-000002,11caaced8f,data/audio/wav/00126.wav,00126,126,Comment aller à
+YEM_00127__2001-11caaced8f,2001-11caaced8f,YEM_00127__2001-11caaced8f_000000-000002,11caaced8f,data/audio/wav/00127.wav,00127,127,Banque
+YEM_00129__2001-11caaced8f,2001-11caaced8f,YEM_00129__2001-11caaced8f_000000-000002,11caaced8f,data/audio/wav/00129.wav,00129,129,Centre-ville
+YEM_00131__2001-11caaced8f,2001-11caaced8f,YEM_00131__2001-11caaced8f_000000-000002,11caaced8f,data/audio/wav/00131.wav,00131,131,Hôpital
+YEM_00132__2001-11caaced8f,2001-11caaced8f,YEM_00132__2001-11caaced8f_000000-000002,11caaced8f,data/audio/wav/00132.wav,00132,132,Est-ce près?
+YEM_00133__2001-11caaced8f,2001-11caaced8f,YEM_00133__2001-11caaced8f_000000-000002,11caaced8f,data/audio/wav/00133.wav,00133,133,Est-ce loin ?
+YEM_00134__2001-11caaced8f,2001-11caaced8f,YEM_00134__2001-11caaced8f_000000-000003,11caaced8f,data/audio/wav/00134.wav,00134,134,Tout droit
+YEM_00141__2001-11caaced8f,2001-11caaced8f,YEM_00141__2001-11caaced8f_000000-000002,11caaced8f,data/audio/wav/00141.wav,00141,141,un
+YEM_00142__2001-11caaced8f,2001-11caaced8f,YEM_00142__2001-11caaced8f_000000-000002,11caaced8f,data/audio/wav/00142.wav,00142,142,deux
+YEM_00143__2001-11caaced8f,2001-11caaced8f,YEM_00143__2001-11caaced8f_000000-000002,11caaced8f,data/audio/wav/00143.wav,00143,143,trois
+YEM_00144__2001-11caaced8f,2001-11caaced8f,YEM_00144__2001-11caaced8f_000000-000002,11caaced8f,data/audio/wav/00144.wav,00144,144,quatre
+YEM_00145__2001-11caaced8f,2001-11caaced8f,YEM_00145__2001-11caaced8f_000000-000002,11caaced8f,data/audio/wav/00145.wav,00145,145,cinq
+YEM_00146__2001-11caaced8f,2001-11caaced8f,YEM_00146__2001-11caaced8f_000000-000002,11caaced8f,data/audio/wav/00146.wav,00146,146,six
+YEM_00147__2001-11caaced8f,2001-11caaced8f,YEM_00147__2001-11caaced8f_000000-000002,11caaced8f,data/audio/wav/00147.wav,00147,147,sept
+YEM_00148__2001-11caaced8f,2001-11caaced8f,YEM_00148__2001-11caaced8f_000000-000002,11caaced8f,data/audio/wav/00148.wav,00148,148,huit
+YEM_00149__2001-11caaced8f,2001-11caaced8f,YEM_00149__2001-11caaced8f_000000-000002,11caaced8f,data/audio/wav/00149.wav,00149,149,neuf
+YEM_00150__2001-11caaced8f,2001-11caaced8f,YEM_00150__2001-11caaced8f_000000-000002,11caaced8f,data/audio/wav/00150.wav,00150,150,dix
+YEM_00151__2001-11caaced8f,2001-11caaced8f,YEM_00151__2001-11caaced8f_000000-000002,11caaced8f,data/audio/wav/00151.wav,00151,151,vingt
+YEM_00152__2001-11caaced8f,2001-11caaced8f,YEM_00152__2001-11caaced8f_000000-000002,11caaced8f,data/audio/wav/00152.wav,00152,152,trente
 ,,,,,,26,Vous êtes prêts ?
 ,,,,,,32,Il faut copier les énoncés ?
 ,,,,,,37,Qu´est-ce que ça veut dire ?

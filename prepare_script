@@ -24,7 +24,7 @@ for audio_wav in $dir/*; do
 	
 	exfilename=$audio_wav
 
-	record_id="$langcode$us$filename$us$speaker_id"
+	record_id="$langcode$us$sentence_id$us$filename$us$speaker_id"
 	
 	end_time=$(printf "%.0f\n" $(soxi -D $audio_wav))
 	
